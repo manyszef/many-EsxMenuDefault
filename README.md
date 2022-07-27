@@ -1,2 +1,2 @@
 # 5City-EsxMenuDefault
-ESX Menu Default taki jak na 5City 2.0
+ESX Menu Default przypominające te z 5City 2.0
